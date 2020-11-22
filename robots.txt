@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://Duncathee.github.io/musings/sitemap.xml

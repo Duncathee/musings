@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Cathee&#x27;s Musings",
+    "description": "",
+    "home_page_url": "https://Duncathee.github.io/musings",
+    "feed_url": "https://Duncathee.github.io/musings/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Cathee"
+    },
+    "items": [
+    ]
+}
